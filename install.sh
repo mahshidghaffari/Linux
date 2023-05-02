@@ -26,27 +26,31 @@ sudo apt install python3 -y
 sudo apt install octave -y
 
 # Image and video processing
-sudo apt install gimp -y
-sudo apt install kdenlive -y
+# sudo apt install gimp -y
+# sudo apt install kdenlive -y
 
 # docker
 sudo apt install docker.io -y
 sudo apt install docker-compose -y
 
 # Fun stuff
-sudo apt install cmatrix -y
-sudo apt install figlet -y
-sudo apt install lolcat -y
-sudo apt install neofetch -y
+# sudo apt install cmatrix -y
+# sudo apt install figlet -y
+# sudo apt install lolcat -y
+# sudo apt install neofetch -y
+sudo snap install notepad-plus-plus -y
+
+# js
+sudo apt-get install npm -y
+npm install -g @vue/cli -y
 
 # Get all upgrades
 sudo apt upgrade -y
 sudo apt autoremove -y
 
 
-
 # Install Zoom
-# bash ./install_zoom.sh
+bash ./install_zoom.sh
 
 # Install Jetbrains Toolbox
 bash ./install_toolbox.sh
