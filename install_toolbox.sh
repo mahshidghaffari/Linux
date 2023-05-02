@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt install libfuse2 -y
+
 cd ~/Downloads
 wget https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.26.1.13138.tar.gz
 
