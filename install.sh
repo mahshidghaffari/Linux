@@ -49,6 +49,8 @@ npm install -g @vue/cli -y
 sudo apt upgrade -y
 sudo apt autoremove -y
 
+# Install Chrome
+bash ./install_chrome.sh
 
 # Install Zoom
 bash ./install_zoom.sh
