@@ -39,6 +39,7 @@ sudo apt install docker-compose -y
 # sudo apt install lolcat -y
 # sudo apt install neofetch -y
 sudo snap install notepad-plus-plus -y
+sudo apt install code -y
 
 # js
 sudo apt-get install npm -y
