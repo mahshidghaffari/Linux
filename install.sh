@@ -43,8 +43,7 @@ sudo apt install neofetch -y
 sudo apt upgrade -y
 sudo apt autoremove -y
 
-# Install Nord elements
-bash ./install_nord.sh
+
 
 # Install Zoom
 # bash ./install_zoom.sh
