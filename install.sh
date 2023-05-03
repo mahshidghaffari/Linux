@@ -40,6 +40,7 @@ sudo apt install docker-compose -y
 # sudo apt install neofetch -y
 sudo snap install notepad-plus-plus -y
 sudo apt install code -y
+sudo apt install okular
 
 # js
 sudo apt-get install npm -y
