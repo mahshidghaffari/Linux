@@ -4,7 +4,7 @@
     sudo apt update
     sudo apt upgrade
     sudo apt install git
-    git clone https://github.com/S010MON/Linux.git
+    git clone https://github.com/mahshidghaffari/Linux.git
    
 ## 2 Auto-Install
 Using the script, run the following:
